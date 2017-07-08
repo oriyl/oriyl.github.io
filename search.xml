@@ -4,6 +4,16 @@
   
     
     <entry>
+      <title><![CDATA[Change the theme]]></title>
+      <url>http://yoursite.com/2017/07/08/Change-the-theme/</url>
+      <content type="html"><![CDATA[<p><strong>##修改主题出错</strong></p>
+<pre><code>*之前用的主题并不存在这个问题
+*可能是这个主题本身就有问题
+*暂时没有找到解决方案
+</code></pre>]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[artical]]></title>
       <url>http://yoursite.com/2016/12/08/artical/</url>
       <content type="html"><![CDATA[<h1 id="测试文章"><a href="#测试文章" class="headerlink" title="测试文章"></a>测试文章</h1>]]></content>
