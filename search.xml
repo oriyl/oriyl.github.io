@@ -5,18 +5,24 @@
     
     <entry>
       <title><![CDATA[Change the theme]]></title>
-      <url>http://yoursite.com/2017/07/08/Change-the-theme/</url>
-      <content type="html"><![CDATA[<p><strong>##修改主题出错</strong></p>
-<pre><code>*之前用的主题并不存在这个问题
-*可能是这个主题本身就有问题
-*暂时没有找到解决方案
-</code></pre>]]></content>
+      <url>http://yoursite.com/2016/12/10/Change-the-theme/</url>
+      <content type="html"><![CDATA[<p><strong>##Incident of changing the blog theme</strong></p>
+<pre><code>*the theme using now is out of question
+*so maybe the one to use has mistakes 
+*no solution is temporarily found
+</code></pre><p>I have always considered the theme choosen to replace the old one is the source of problem till the third theme used before also has the same mistake,and then I realized the current theme changed something of the files in the root folder.<br>Luckily,the issue has been perferctly solved.</p>
+]]></content>
     </entry>
     
     <entry>
       <title><![CDATA[artical]]></title>
       <url>http://yoursite.com/2016/12/08/artical/</url>
-      <content type="html"><![CDATA[<h1 id="测试文章"><a href="#测试文章" class="headerlink" title="测试文章"></a>测试文章</h1>]]></content>
+      <content type="html"><![CDATA[<h1 id="测试文章"><a href="#测试文章" class="headerlink" title="测试文章"></a>测试文章</h1><p>社会评价</p>
+<p>埃隆·马斯克的朋友们评价他是个目标极其明确的人，他习惯从工程师的视角看世界。Adeo Ressi，他在宾夕法尼亚大学的室友说，他也是一个疯狂的创业者，大学时候，两人曾经开了一个夜总会，每次警察打来电话，总是马斯克故作冷静地回应。</p>
+<p>他在上大学的时候就常常思考，这个世界面临的真正问题是什么，哪些会影响到人类的未来。他看好互联网，可持续能源和空间探索。后来他依约进入了这三个领域，并依次扔下PayPal，Tesla Motors和SpaceX三个重磅炸弹。</p>
+<p>“只要他看好的，他会一直努力，直到达到目标。”Ressi说。</p>
+<p>对于那些反对他的人，他会不遗余力地反击，毫不掩饰自己的真实想法。</p>
+]]></content>
     </entry>
     
     <entry>
